@@ -16,3 +16,7 @@ def divide(a, b):
 
 def square(a, b):
     pass
+
+
+def cube(a, b):
+    pass
